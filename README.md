@@ -22,23 +22,18 @@ This repository contains **Object-Oriented Programming (OOP)** lab tasks complet
 
 The following outlines the current project structure:
 
-```
+Ubit_Semester_II_OOPs_LabTasks:
+  Week_05:
+    Java_Version:
+      - Triangle.java
+      - Main.java
+    Python_Version:
+      Class:
+        - Triangle.py
+      - Main.java  # Check if this file should be here
+  Week_06:
+    - README.md
 
-Ubit\_Semester\_II\_OOPs\_LabTasks/
-├── Week\_05/
-│   ├── Java Version/
-│   │   ├── Triangle.java
-│   │   └── Main.java
-│   │
-│   ├── Python Version/
-│   │   ├── Class/
-│   │   │   └── Triangle.py
-│   │   └── Main.java   # Consider renaming if incorrect
-│
-├── Week\_06/              # Placeholder for future labs
-│   └── README.md
-
-````
 
 > 📝 **Note:**  
 > - You may want to rename `Main.java` in the **Python Version** folder if it was added by mistake.  
