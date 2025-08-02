@@ -4,7 +4,7 @@ Write a class Triangle with three instance double variables, namely sideA, sideB
 A default constructor that creates a triangle with all sides being equal to 1.0.
 A one-parameter constructor that accepts a double and creates an equilateral triangle with all sides equal to the passed parameter.
 -A two-parameter constructor that accepts two doubles x and y, and creates an isosceles triangle with sides x, x, and y. 
--A three-parameter constructor that accepts three doubles x, y, and z, and creates a triangle with sides respectively equal to x, y, and z. 
+-A three-parameter constructor that accept three doubles x, y, and z, and creates a triangle with sides respectively equal to x, y, and z. 
 -A constructor that accepts a reference to an existing triangle and creates a corresponding clone; it should also return a reference to the cloned triangle.
 
 In the Java version, implement getters and setters using standard naming conventions while in python use @property design.

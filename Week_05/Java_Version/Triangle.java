@@ -1,5 +1,5 @@
 package  Week_05.Java_Version;
-
+// Triangle class to represent a triangle with various properties and methods
 public class Triangle {
     private double side1;
     private double side2;
