@@ -21,22 +21,19 @@ This repository contains Object-Oriented Programming (OOP) lab tasks completed d
 
 ```
 
-Ubit\_Semester\_II\_OOPs\_LabTasks/
+Ubit_Semester_II_OOPs_LabTasks/
+├── Week_05/
+│   ├── Java Version/
+│   │   ├── Triangle.java
+│   │   └── Main.java
+│   │
+│   ├── Python Version/
+│   │   ├── Class/
+│   │   │   └── Triangle.py
+│   │   └── Main.java
 │
-├── Week\_05/
-    ├── Java Version 
-│     ├── Triangle.java
-│     ├── Main.java
-    ├── Python Version 
-│     ├── Python Version 
-│        ├── Class
-            ├── Triangle.py
-      ├── Main.java
-
-│
-├── Week\_06/          # Placeholder for future labs
-│
-└── README.md
+├── Week_06/              # Placeholder for future labs
+│   └── README.md
 
 ````
 
