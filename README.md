@@ -30,9 +30,10 @@ Ubit_Semester_II_OOPs_LabTasks:
     Python_Version:
       Class:
         - Triangle.py
-      - Main.java  # Check if this file should be here
-  Week_06:
-    - README.md
+      - Main.py  
+
+  Week_06: . .. .. .
+ - README.md
 
 
 > 📝 **Note:**  
