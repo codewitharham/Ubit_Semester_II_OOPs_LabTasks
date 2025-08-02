@@ -19,8 +19,9 @@ This repository contains Object-Oriented Programming (OOP) lab tasks completed d
 
 ## 📁 Directory Structure
 
-```
+Here is the clean and properly formatted **directory structure** for your `Ubit_Semester_II_OOPs_LabTasks` repository, based on the structure you’ve provided:
 
+```
 Ubit_Semester_II_OOPs_LabTasks/
 ├── Week_05/
 │   ├── Java Version/
@@ -34,8 +35,15 @@ Ubit_Semester_II_OOPs_LabTasks/
 │
 ├── Week_06/              # Placeholder for future labs
 │   └── README.md
+```
 
-````
+### 📌 Notes:
+
+* You may want to rename `Main.java` inside the **Python Version** directory if it was mistakenly placed there.
+* `Week_06/README.md` should eventually explain lab content for that week.
+
+Let me know if you want this as part of your README or visualized with icons or Markdown checklists.
+
 
 ---
 
